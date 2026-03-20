@@ -14,21 +14,21 @@ Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robot
 <!-- 
 ![zigzag](./ezgif-2-93d66cc0b1.gif) -->
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-93d66cc0b1.gif" alt="zigzag" width="70%" height="80%" /> </p>
  
  * [Task 3](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment3): Apply Evolutionary Algorithms on Benchmark Functions.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
  
- <p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/Figure_1.png" alt="zigzag" width="49%" height="80%" /> 
- <img src="https://AlexandraGna.github.io/Alex_Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
+ <p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/Figure_1.png" alt="zigzag" width="49%" height="80%" /> 
+ <img src="https://AlexandraGna.github.io/Portfolio/Figure_2.png" alt="zigzag" width="49%" height="80%" /> 
 </p>
 
 * [Task 4](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment4): Apply Evolutionary Algorithm to make the Robot collect as much dust as possible in different Environments.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment3/12%20ARS%20-%20Assignment%20Evolutionary%20Robotics.pdf)
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-487a7ad650.gif" alt="zigzag" width="70%" height="80%" /> </p>
 
 * [Task 5](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/tree/main/Assignment5): Mobile Robot Localization with Kalman Filters.
 Description of the task [here.](https://github.com/AlexandraGna/Autonomous_Robotic_Systems/blob/main/Assignment5/20%20ARS%20-%20Assignment%20Localization.pdf)
 
-<p align="center"> <img src="https://AlexandraGna.github.io/Alex_Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
+<p align="center"> <img src="https://AlexandraGna.github.io/Portfolio/ezgif-2-472c8e629c.gif" alt="zigzag" width="70%" height="80%" /> </p>
